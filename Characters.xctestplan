@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "96C1CB08-D993-45D7-A454-66171730067D",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Characters.xcodeproj",
+        "identifier" : "A0978DBD2CC3FCFC000A2296",
+        "name" : "CharactersTests"
+      }
+    }
+  ],
+  "version" : 1
+}
